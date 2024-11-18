@@ -1,4 +1,5 @@
-# Hello World
+## Off-Site Links
 
-* private [gitea](https://git.plexworlds.com)
-* private [repoline](https://repo.plexworlds.com)
+## [git](https://git.plexworlds.com) (source)
+
+## [mvn](https://repo.plexworlds.com) (artifacts)
