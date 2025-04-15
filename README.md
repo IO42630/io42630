@@ -1,6 +1,6 @@
-#
+###
 
-##
+###
 
 ### [Gitea](https://git.plexworlds.com/public) ~> /public
 
@@ -8,6 +8,8 @@
 
 ### Favorites
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,,spring,,mysql,,pytorch,,docker,,bash"  alt=""/>
+<p>
+    <img src="https://skillicons.dev/icons?i=angular,,spring,,mysql,,"  alt=""/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=,pytorch,,docker,,bash"  alt=""/>
 </p>
