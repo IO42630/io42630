@@ -2,12 +2,9 @@
 
 ##
 
-### Links
+### [Gitea](https://git.plexworlds.com/public) ~> /public
 
-* [Gitea](https://git.plexworlds.com/public) ~> /public
-* [HackerRank](https://www.hackerrank.com/profile/IO42630)
-
-
+### [HackerRank](https://www.hackerrank.com/profile/IO42630)
 
 ### Favorites
 
