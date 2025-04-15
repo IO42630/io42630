@@ -1,7 +1,7 @@
 
 <br>
 
-### [Gitea](https://git.plexworlds.com/public) ~> pet projects 🐶
+### [Gitea](https://git.plexworlds.com/public) ~> pet projects 🐟
 
 <br>
 
