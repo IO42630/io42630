@@ -4,7 +4,7 @@
 
 
 
-### `min` repo
+### `min` repos
 
 - overview of `min` repos and what they are used for:
   - [`min-root`](https://github.com/IO42630/min-root)
