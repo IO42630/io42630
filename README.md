@@ -1,6 +1,6 @@
 
 
-**libraries**
+**Libraries**
   - `min-bom`
   - `min-collections`
   - `min-log`
